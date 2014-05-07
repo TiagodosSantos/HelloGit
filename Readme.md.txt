@@ -1,0 +1,2 @@
+- This is a Demo repository for GitHub from Windows 8
+- http://www.thewindowsclub.com/github-tutorial
